@@ -1,0 +1,24 @@
+# Carpetas internas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binarios y compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de publicación
+*.publish.xml
+
+# Paquetes NuGet
+*.nupkg
+packages/
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.swp

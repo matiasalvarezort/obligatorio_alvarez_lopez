@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="DTO and Mappers/DTO and Mappers.csproj" Id="cdfe1a19-4a9d-4abb-9b28-5d26d5fa0cd2" />
+  <Project Path="Observatorio.AccesoDatos/Observatorio.AccesoDatos.csproj" />
+  <Project Path="Observatorio.LogicaAplicaci[on/Observatorio.LogicaAplicacion.csproj" />
+  <Project Path="Observatorio.LogicaNegocio/Observatorio.LogicaNegocio.csproj" />
+  <Project Path="Observatorio.WebApp/Observatorio.WebApp.csproj" />
+</Solution>
